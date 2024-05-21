@@ -368,8 +368,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                 <div class="flex justify-center lg:py-10 py-5 container">
                     <div class="relative">
-                        <video width="640" height="540" poster="simulacao-protecao-veicular/videoprincipal1.png" class="video-player rounded-lg">
-                            <source src="simulacao-protecao-veicular/videoprincipal.mp4" type="video/mp4">
+                        <video width="640" height="540" poster="simulacao-protecao-veicular/videoprincipal1.png" controls class="video-player rounded-lg">
+                            <source src="https://bemprotege.net/simulacao-protecao-veicular/videoprincipal.mp4" type="video/mp4">
                         </video>
                         <button class="play-button absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
                             <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" class="w-20 h-20" color="white" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg" style="color: white;">
@@ -572,8 +572,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                         <div class="grid md:grid-cols-4 grid-cols-2 gap-5 lg:py-10 py-5">
                             <div class="relative">
-                                <video width="400" height="200" poster="simulacao-protecao-veicular/video1.png" class="video-player rounded-lg">
-                                    <source src="simulacao-protecao-veicular/01_reduzido.mp4" type="video/mp4">
+                                <video width="400" height="200" poster="simulacao-protecao-veicular/video1.png" controls class="video-player rounded-lg">
+                                    <source src="https://bemprotege.net/simulacao-protecao-veicular/01_reduzido.mp4" type="video/mp4">
                                 </video>
 
                                 <button class="play-button absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
@@ -584,8 +584,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
 
                             <div class="relative">
-                                <video id="wihr428uf" width="400" height="200" poster="simulacao-protecao-veicular/video2.png" class="video-player rounded-lg">
-                                    <source src="simulacao-protecao-veicular/02_reduzido.mp4" type="video/mp4">
+                                <video id="wihr428uf" width="400" height="200" poster="simulacao-protecao-veicular/video2.png" controls class="video-player rounded-lg">
+                                    <source src="https://bemprotege.net/simulacao-protecao-veicular/02_reduzido.mp4" type="video/mp4">
                                 </video>
 
                                 <button class="play-button absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
@@ -596,8 +596,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
 
                             <div class="relative">
-                                <video width="400" height="200" poster="simulacao-protecao-veicular/video3.png" class="video-player rounded-lg">
-                                    <source src="simulacao-protecao-veicular/03_reduzido.mp4" type="video/mp4">
+                                <video width="400" height="200" poster="simulacao-protecao-veicular/video3.png" controls class="video-player rounded-lg">
+                                    <source src="https://bemprotege.net/simulacao-protecao-veicular/03_reduzido.mp4" type="video/mp4">
                                 </video>
 
                                 <button class="play-button absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
@@ -608,8 +608,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
 
                             <div class="relative">
-                                <video width="400" height="200" poster="simulacao-protecao-veicular/video4.png" class="video-player rounded-lg">
-                                    <source src="simulacao-protecao-veicular/04_reduzido.mp4" type="video/mp4">
+                                <video width="400" height="200" poster="simulacao-protecao-veicular/video4.png" controls class="video-player rounded-lg">
+                                    <source src="https://bemprotege.net/simulacao-protecao-veicular/04_reduzido.mp4" type="video/mp4">
                                 </video>
 
                                 <button class="play-button absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
